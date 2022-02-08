@@ -30,7 +30,7 @@ $ git clone https://github.com/CORE-UPM/P2_CV.git
 A continuación se debe acceder al directorio de trabajo, e instalar todas las dependencias.
 
 ```
-$ cd P1_CV
+$ cd P2_CV
 $ npm install
 ```
 
