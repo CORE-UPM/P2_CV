@@ -5,7 +5,7 @@
 
 # Práctica 2 - CV
 
-Versión: 23 de Enero de 2024
+Versión: 3 de Febrero de 2025
 
 ## Objetivos
 
