@@ -9,7 +9,7 @@
         "githubURL": "CORE-UPM/P2_CV",
         "serverUrl": "https://aat.dit.upm.es/",
         "courseId": "395",
-        "assignmentId": "449"
+        "assignmentId": "8545"
     },
     "dependencies": {
         "autocorector": "^3.2.2"
