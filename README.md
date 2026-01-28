@@ -5,7 +5,7 @@
 
 # Práctica 2 - CV
 
-Versión: 3 de Febrero de 2025
+Versión: 28 de Enero de 2026
 
 ## Objetivos
 
@@ -70,8 +70,9 @@ Modificar el estilo de la página web.
 * Como mínimo se pide modificar el estilo de la etiqueta `<body>` (cambiar el color de fondo) y el estilo de la etiqueta `<section>` (cualquier cambio, por ejemplo, añadir borde a las secciones). 
 * Realizar otros cambios sobre el CSS.
 
-##Consideraciones adicionales y recomendaciones
-Importante: Se han de emplear los ID y las etiquetas especificadas en el enunciado. Ponga exactamente lo que se pide respetando mayúsculas y acentos. Si el ID fecha_nacimiento por ejemplo lo llamamos "fechaNacimineto" el autocorector no la encontrará y no nos dará los puntos.
+## Consideraciones adicionales y recomendaciones
+Importantes: 
+Se han de emplear los ID y las etiquetas especificadas en el enunciado. Ponga exactamente lo que se pide respetando mayúsculas y acentos. Si el ID fecha_nacimiento por ejemplo lo llamamos "fechaNacimineto" el autocorector no la encontrará y no nos dará los puntos.
 De cara al examen piense en qué ha aprendido y qué cosas podría modificar en la práctica y como aplicaría las etiquetas empleadas para crear otro tipo de páginas. Por ejemplo, piense como crear una página similar al Moodle de la UPM,
 que esté dividida en varios temas y en cada uno de ellos tenga enlaces al material del curso.
 
@@ -93,14 +94,14 @@ Capturas a entregar con esta práctica:
 </kbd>
 
 - Captura 2: Captura de pantalla de las developer tools (de cualquier navegador, en el siguiente ejemplo se ven las de Chrome pero vale Firefox, Edge, etc.) en la que se vea el html de la página, con algunas secciones abiertas:
+
 <kbd>
 <img src="https://user-images.githubusercontent.com/47325335/215489911-3d5cd376-8094-40e1-ae68-a692f18b77f0.png" alt="drawing" width="500"/>
 </kbd>
 
 ## Instrucciones para la Entrega y Evaluación.
 
-Instrucciones [aquí](https://github.com/CORE-UPM/Instrucciones_Practicas/blob/main/README.md#instrucciones-para-la-entrega-y-evaluaci%C3%B3n
-).
+Instrucciones [aquí](https://github.com/CORE-UPM/Instrucciones_Practicas/blob/main/README.md#instrucciones-para-la-entrega-y-evaluaci%C3%B3n).
 
 ## Rúbrica
 
